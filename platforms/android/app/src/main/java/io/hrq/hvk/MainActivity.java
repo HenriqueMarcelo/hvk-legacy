@@ -17,7 +17,7 @@
        under the License.
  */
 
-package io.cordova.hellocordova;
+package io.hrq.hvk;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
